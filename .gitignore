@@ -1,0 +1,10 @@
+# Go
+
+# Build
+/au
+
+# Editor
+.*.swp
+.*.un~
+
+# Test
